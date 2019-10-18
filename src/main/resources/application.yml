@@ -1,0 +1,5 @@
+spring:
+  banner:
+    image:
+      bitdepth: 8
+      pixelmode: block
